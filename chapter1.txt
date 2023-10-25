@@ -1,1 +1,11 @@
-Nemanja je moje ime
+mkdir - novi direktorijum
+touch (ime fajla) - pravi fajl
+git commit -m "Poruka" kada komitujemo fajl da imamo poruku
+git log - proverava kada i koji je fajl zadnji komitovan
+git status - da li postoje fajlovi koji su ne commitovani
+cd (ime direktorijuma ili mesta koje zelimo da otvorimo)
+ls - prikazuje sadrzaj foldera
+rm -f .git/index.lock
+git checkout -b main - napraviti branch na kome ce stajati podaci
+git remote add (ime remota) - napraviti remote preko koga ce ulaziti podaci 
+git push -u origin - proslediti podatke na github
